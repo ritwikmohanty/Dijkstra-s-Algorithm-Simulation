@@ -124,5 +124,3 @@ Made with ❤️ by Ritwik, Shashank, and Vedant.
 This project is open source and available under the MIT License.
 
 ---
-
-Feel free to expand or modify this template to suit your needs!
